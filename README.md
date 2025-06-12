@@ -9,7 +9,7 @@ My favorite stack is Vue.js, Java Spring Boot, and PostgreSQL.
 I'm very interested in UI design (design system, accessibility) and server-side code structure to structure my projects from start to finish. 
 
 #### Currently (until November 2025), I'll:
-- Finalize my music platform project (auth, interface, mp3 format upload)
+- Finalize my music platform project (tests, RGPD, mp3 format upload)
 - Learn more about Spring Security and integration testing
 - Look for my first permanent full-time dev job
 ---

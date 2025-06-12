@@ -2,17 +2,20 @@
 
 <img align="right" alt="Github logo drawing" height="160px" src="https://github.com/user-attachments/assets/e61eee57-2698-4e77-b2dc-41d9f75967f7" />
 
-I'm a junior fullstack developer in training until November 2025.  
-I like building responsive interfaces with Vue.js, and I also enjoy working with Java and Spring Boot.
+Three years ago, someone gave me a book about HTML/CSS.  That’s the moment that made me want to understand the web.
 
-I like to plan about how to build UI: atomic design, structure, and not leaving anyone out.
-Writing code that makes sense — for everyone!
+Today, I'm working on a work-study program for the Software Design and Development diploma (France).
 
-#### Now I
-- Learning and building with Vue.js, Java, Spring Boot and PostgreSQL  
-- Continue my music ads platform I started
-- Looking for my first dev job (CDI or POEI)
+My favorite stack is Vue.js, Java Spring Boot, and PostgreSQL.
 
-#### A bit about me
-Originally, I studied Communication Design – Space and Volume.   
-Today I bring that sense of structure and real-world logic into the way I code.
+I'm very interested in UI design (design system, accessibility) and server-side code structure to structure my projects from start to finish. 
+
+#### Currently (until November 2025), I'll:
+- Finalize my music platform project (auth, interface, mp3 format upload)
+- Learn more about Spring Security and integration testing
+- Look for my first permanent full-time dev job
+---
+#### About 
+A former communications designer, specializing in space and volume, I have retained a taste for cleanliness, logic, and functionality.
+
+Today, I put that into my code.
